@@ -82,7 +82,7 @@
 		<div
 			id="home"
 			class="intro route bg-image"
-			style="background-image: url(img/intro-bg.jpg);"
+			style="background-image: url(img/BG.jpg);"
 		>
 			<div class="overlay-itro"></div>
 			<div class="intro-content display-table">
@@ -122,7 +122,7 @@
 								<div class="col-sm-6 col-md-6">
 									<div class="about-img pull-right">
 										<img
-											src="img/testimonial-2.jpg"
+											src="img/Profile.jpg"
 											class="img-fluid rounded b-shadow-a"
 											alt=""
 										/>
@@ -282,7 +282,7 @@
 
 		<div
 			class="section-counter paralax-mf bg-image"
-			style="background-image: url(img/counters-bg.jpg);"
+			style="background-image: url(img/BG.jpg);"
 		>
 			<div class="overlay-mf"></div>
 			<div class="container">
@@ -514,7 +514,7 @@
 		<!--/ Section Testimonials Star /-->
 		<div
 			class="testimonials paralax-mf bg-image"
-			style="background-image: url(img/overlay-bg.jpg);"
+			style="background-image: url(img/BG.jpg);"
 		>
 			<div class="overlay-mf"></div>
 			<div class="container">
